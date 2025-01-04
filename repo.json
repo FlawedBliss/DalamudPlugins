@@ -1,0 +1,35 @@
+[
+    {
+        "Author": "FlawedBliss",
+        "Name": "RelicBuddy",
+        "InternalName": "RelicBuddy",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "A companion to help and guide you through completing your relics",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
+        "CategoryTags": [
+            "other"
+        ],
+        "Tags": [
+            "relic",
+            "eureka",
+            "bozja"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            ""
+        ],
+        "IconUrl": "",
+        "Punchline": "Relic grinding made easy",
+        "Changelog": "",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.0/latest.zip",
+        "LastUpdate": "1735962978"
+    }
+]
