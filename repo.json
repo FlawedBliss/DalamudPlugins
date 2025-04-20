@@ -15,7 +15,7 @@
             "eureka",
             "bozja"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -30,6 +30,6 @@
         "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
         "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
-        "LastUpdate": "1745162630"
+        "LastUpdate": "17451626700"
     }
 ]
