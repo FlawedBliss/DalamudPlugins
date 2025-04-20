@@ -3,7 +3,7 @@
         "Author": "FlawedBliss",
         "Name": "RelicBuddy",
         "InternalName": "RelicBuddy",
-        "AssemblyVersion": "0.1.0.5",
+        "AssemblyVersion": "0.1.0.6",
         "Description": "A companion to help and guide you through completing your relics",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
@@ -27,9 +27,9 @@
         "Punchline": "Relic grinding made easy",
         "Changelog": "",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.5/latest.zip",
-        "LastUpdate": "1738600456"
+        "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
+        "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.6/latest.zip",
+        "LastUpdate": "1745162630"
     }
 ]
