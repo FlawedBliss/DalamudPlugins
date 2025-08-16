@@ -30,7 +30,7 @@
 		"Author": "FlawedBliss",
 		"Name": "OccultBuddy",
 		"InternalName": "OccultBuddy",
-		"AssemblyVersion": "1.0.0.3",
+		"AssemblyVersion": "1.0.0.4",
 		"Description": "Shows nearby Treasure Coffers in Occult Crescent.",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/flawedBliss/occultbuddy",
@@ -41,7 +41,7 @@
             "Occult Crescent",
 			"Field Operation"
         ],
-		"DalamudApiLevel": 12,
+		"DalamudApiLevel": 13,
 		"LoadRequiredState": 0,
 		"LoadSync": false,
 		"CanUnloadAsync": false,

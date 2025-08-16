@@ -36,7 +36,7 @@
         "Author": "FlawedBliss",
         "Name": "OccultBuddy",
         "InternalName": "OccultBuddy",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
@@ -47,7 +47,7 @@
             "Occult Crescent",
             "Field Operation"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -59,9 +59,9 @@
         "Punchline": "Finding Treasure Coffers made easy",
         "Changelog": "",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.3/latest.zip",
-        "DownloadLinkTesting": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.3/latest.zip",
-        "LastUpdate": "1751713481"
+        "DownloadLinkInstall": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
+        "DownloadLinkTesting": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
+        "LastUpdate": "1755354608"
     }
 ]
