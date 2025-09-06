@@ -51,5 +51,29 @@
 		"Punchline": "Finding Treasure Coffers made easy",
 		"Changelog": "",
 		"AcceptsFeedback": true
+	},
+	{
+		"Author": "FlawedBliss",
+		"Name": "Population Tracker",
+		"InternalName": "PopulationTracker",
+		"AssemblyVersion": "0.1.0.0",
+		"Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
+		"CategoryTags": [
+			"other"
+		],
+		"Tags": [
+        ],
+		"DalamudApiLevel": 13,
+		"LoadRequiredState": 0,
+		"LoadSync": false,
+		"CanUnloadAsync": false,
+		"LoadPriority": 0,
+		"ImageUrls":[""],
+		"IconUrl": "",
+		"Punchline": "Tracking number of nearby players in real-time.",
+		"Changelog": "",
+		"AcceptsFeedback": true
 	}	
 ]
