@@ -56,7 +56,7 @@
 		"Author": "FlawedBliss",
 		"Name": "Population Tracker",
 		"InternalName": "PopulationTracker",
-		"AssemblyVersion": "0.1.0.1",
+		"AssemblyVersion": "0.1.1.0",
 		"Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
