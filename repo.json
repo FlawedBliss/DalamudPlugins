@@ -3,7 +3,7 @@
         "Author": "FlawedBliss",
         "Name": "RelicBuddy",
         "InternalName": "RelicBuddy",
-        "AssemblyVersion": "0.1.0.9",
+        "AssemblyVersion": "0.1.0.10",
         "Description": "A companion to help and guide you through completing your relics",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
@@ -15,7 +15,7 @@
             "eureka",
             "bozja"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -27,42 +27,10 @@
         "Punchline": "Relic grinding made easy",
         "Changelog": "",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.9/latest.zip",
-        "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.9/latest.zip",
-        "LastUpdate": "1755967220"
-    },
-    {
-        "Author": "FlawedBliss",
-        "Name": "OccultBuddy",
-        "InternalName": "OccultBuddy",
-        "AssemblyVersion": "1.0.0.4",
-        "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
-        "CategoryTags": [
-            "other"
-        ],
-        "Tags": [
-            "Occult Crescent",
-            "Field Operation"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "ImageUrls": [
-            ""
-        ],
-        "IconUrl": "",
-        "Punchline": "Finding Treasure Coffers made easy",
-        "Changelog": "",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.4/latest.zip",
-        "LastUpdate": "1755354608"
+        "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.10/latest.zip",
+        "DownloadLinkTesting": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.1.0.10/latest.zip",
+        "LastUpdate": "1766847930"
     },
     {
         "Author": "FlawedBliss",
