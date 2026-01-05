@@ -49,5 +49,31 @@
 		"Punchline": "Tracking number of nearby players in real-time.",
 		"Changelog": "",
 		"AcceptsFeedback": true
-	}	
+	},
+	{
+		"Author": "FlawedBliss",
+		"Name": "OccultBuddy",
+		"InternalName": "OccultBuddy",
+		"AssemblyVersion": "1.0.0.5",
+		"Description": "Shows nearby Treasure Coffers in Occult Crescent.",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/flawedBliss/occultbuddy",
+		"CategoryTags": [
+			"other"
+		],
+		"Tags": [
+            "Occult Crescent",
+			"Field Operation"
+        ],
+		"DalamudApiLevel": 14,
+		"LoadRequiredState": 0,
+		"LoadSync": false,
+		"CanUnloadAsync": false,
+		"LoadPriority": 0,
+		"ImageUrls":[""],
+		"IconUrl": "",
+		"Punchline": "Finding Treasure Coffers made easy",
+		"Changelog": "",
+		"AcceptsFeedback": true
+	}
 ]
