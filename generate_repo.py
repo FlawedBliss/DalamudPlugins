@@ -4,6 +4,7 @@ from time import time
 
 
 DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
+DOWNLOAD_URL_ALPHA = '{}/releases/download/v{}/testing.zip'
 GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
 
 
@@ -29,7 +30,10 @@ if __name__ == '__main__':
     plugins = load_plugins()
     for plugin in plugins:
         url = DOWNLOAD_URL.format(plugin["RepoUrl"], plugin["AssemblyVersion"])
-        plugin["DownloadLinkInstall"] = plugin["DownloadLinkTesting"] = plugin["DownloadLinkUpdate"] = url
+        plugin["DownloadLinkInstall"] = plugin["DownloadLinkUpdate"] = url
+        if 'TestingAssemblyVersion' in plugin:
+            testing_url = DOWNLOAD_URL_ALPHA.format(plugin["RepoUrl"], plugin["TestingAssemblyVersion"]+"-testing")
+            plugin["DownloadLinkTesting"] = testing_url
     set_updated(plugins)
     
     with open("repo.json", "w") as f:

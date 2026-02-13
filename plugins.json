@@ -4,6 +4,8 @@
 		"Name": "RelicBuddy",
 		"InternalName": "RelicBuddy",
 		"AssemblyVersion": "0.1.0.11",
+		"TestingAssemblyVersion": "0.2.0.0",
+		"IsTestingExclusive": false,
 		"Description": "A companion to help and guide you through completing your relics",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/flawedBliss/relicbuddy",
@@ -16,6 +18,7 @@
             "bozja"
         ],
 		"DalamudApiLevel": 14,
+		"TestingDalamudApiLevel": 14,
 		"LoadRequiredState": 0,
 		"LoadSync": false,
 		"CanUnloadAsync": false,
