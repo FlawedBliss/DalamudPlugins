@@ -3,7 +3,7 @@
 		"Author": "FlawedBliss",
 		"Name": "RelicBuddy",
 		"InternalName": "RelicBuddy",
-		"AssemblyVersion": "0.2.0.1",
+		"AssemblyVersion": "0.2.0.2",
 		"IsTestingExclusive": false,
 		"Description": "A companion to help and guide you through completing your relics",
 		"ApplicableVersion": "any",
