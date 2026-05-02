@@ -36,7 +36,7 @@
         "Author": "FlawedBliss",
         "Name": "Population Tracker",
         "InternalName": "PopulationTracker",
-        "AssemblyVersion": "0.1.1.2",
+        "AssemblyVersion": "0.1.1.4",
         "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
@@ -44,7 +44,7 @@
             "other"
         ],
         "Tags": [],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -56,9 +56,9 @@
         "Punchline": "Tracking number of nearby players in real-time.",
         "Changelog": "",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.2/latest.zip",
-        "LastUpdate": "1773416286"
+        "DownloadLinkInstall": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.4/latest.zip",
+        "LastUpdate": "1777755709"
     },
     {
         "Author": "FlawedBliss",
